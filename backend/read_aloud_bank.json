@@ -1,0 +1,34 @@
+[
+  {
+    "id": "RA_0001",
+    "text": "The speaker reminisces about his views of the English Revolution when he was a student and how it seemed quite clear which side he was on - 'the aristocrats, not the puritans'. Later he realized there was more to it than that and there were several ways of interpreting the Revolution: as a struggle between the king and parliament, as a class war or as an unpredictable situation without clear sides.",
+    "word_count": 71,
+    "complexity": "Medium",
+    "prep_seconds": 32,
+    "max_record_seconds": 54
+  },
+  {
+    "id": "RA_0002",
+    "text": "History is selective. What history books tell us about the past is not everything that happened, but what historians have selected. They cannot put in everything: choices have to be made. Choices must similarly be made about which aspects of the past should be formally taught to the next generation in the shape of school history lessons.",
+    "word_count": 57,
+    "complexity": "Medium",
+    "prep_seconds": 29,
+    "max_record_seconds": 45
+  },
+  {
+    "id": "RA_0003",
+    "text": "Global water consumption has increased almost fourfold in the past 100 years, and many regions can only meet their water demand thanks to essential contributions from mountain regions. In 30 years, almost a quarter of the world's lowland population will strongly depend on runoff from the mountains. Only sustainable development can ensure the important function of mountain areas as Earth's 'water towers'.",
+    "word_count": 62,
+    "complexity": "Medium",
+    "prep_seconds": 30,
+    "max_record_seconds": 48
+  },
+  {
+    "id": "RA_0004",
+    "text": "Summerhill School was regarded with considerable suspicion by the educational establishment. Lessons were optional for pupils at the school, and the government of the school was carried out by a School Council, of which all the pupils and staff were members, with everyone having equal voting rights.",
+    "word_count": 47,
+    "complexity": "Medium",
+    "prep_seconds": 26,
+    "max_record_seconds": 38
+  }
+]

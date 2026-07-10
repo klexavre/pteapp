@@ -1,0 +1,33 @@
+﻿
+> pte-repeat-sentence-frontend@2.0.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+  Γû▓ Next.js 14.2.5
+  - Local:        http://127.0.0.1:3000
+  - Network:      http://127.0.0.1:3000
+
+ Γ£ô Starting...
+ Γ£ô Ready in 1642ms
+ Γùï Compiling / ...
+ Γ£ô Compiled / in 1589ms (503 modules)
+ GET / 200 in 1717ms
+ Γùï Compiling /sentences ...
+ Γ£ô Compiled /sentences in 905ms (500 modules)
+ GET /sentences 200 in 990ms
+ Γ£ô Compiled /words in 100ms (507 modules)
+ GET /words 200 in 184ms
+ GET / 200 in 66ms
+ Γ£ô Compiled /_not-found in 321ms (498 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 479ms
+ GET / 200 in 75ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 48ms
+ Γ£ô Compiled /words in 89ms (252 modules)
+ Γ£ô Compiled /sentences in 129ms (258 modules)
+ GET / 200 in 73ms
+ GET /sentences 200 in 50ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 39ms
+ Γ£ô Compiled /sentences/[id] in 494ms (530 modules)
+ Γ£ô Compiled /words/[word] in 414ms (533 modules)
+ Γ£ô Compiled /_not-found in 169ms (536 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 368ms
+[?25h

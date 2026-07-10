@@ -1,0 +1,14 @@
+﻿node_modules/
+.venv/
+__pycache__/
+*.pyc
+*.log
+backend/.piper/
+backend/question_audio/
+backend/word_audio/
+backend/read_aloud_audio/
+backend/voices/
+*.onnx
+*.wav
+*.mp3
+frontend/.next/

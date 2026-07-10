@@ -1,0 +1,11 @@
+{
+  "name": "pte-app-v2",
+  "private": true,
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "pregenerate-audio": "node scripts/pregenerate-audio.js",
+    "dev": "node scripts/dev.js",
+    "docker-up": "docker compose up --build",
+    "docker-down": "docker compose down"
+  }
+}

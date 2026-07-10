@@ -1,0 +1,292 @@
+[
+  {
+    "word": "advisors",
+    "display": "advisors",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0006"
+    ],
+    "audio_file": "word_advisors.mp3"
+  },
+  {
+    "word": "appropriate",
+    "display": "appropriate",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0004"
+    ],
+    "audio_file": "word_appropriate.mp3"
+  },
+  {
+    "word": "approved",
+    "display": "approved",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0008"
+    ],
+    "audio_file": "word_approved.mp3"
+  },
+  {
+    "word": "assigned",
+    "display": "assigned",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0004"
+    ],
+    "audio_file": "word_assigned.mp3"
+  },
+  {
+    "word": "available",
+    "display": "available",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0009"
+    ],
+    "audio_file": "word_available.mp3"
+  },
+  {
+    "word": "basement",
+    "display": "basement",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0011"
+    ],
+    "audio_file": "word_basement.mp3"
+  },
+  {
+    "word": "capitalized",
+    "display": "capitalized",
+    "syllables": 5,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0013"
+    ],
+    "audio_file": "word_capitalized.mp3"
+  },
+  {
+    "word": "century",
+    "display": "century",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0002"
+    ],
+    "audio_file": "word_century.mp3"
+  },
+  {
+    "word": "counselor",
+    "display": "counselor",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0005"
+    ],
+    "audio_file": "word_counselor.mp3"
+  },
+  {
+    "word": "discussing",
+    "display": "discussing",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0015"
+    ],
+    "audio_file": "word_discussing.mp3"
+  },
+  {
+    "word": "electricity",
+    "display": "electricity",
+    "syllables": 5,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0003"
+    ],
+    "audio_file": "word_electricity.mp3"
+  },
+  {
+    "word": "energy",
+    "display": "energy",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0003"
+    ],
+    "audio_file": "word_energy.mp3"
+  },
+  {
+    "word": "extremely",
+    "display": "extremely",
+    "syllables": 4,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0006"
+    ],
+    "audio_file": "word_extremely.mp3"
+  },
+  {
+    "word": "figures",
+    "display": "figures",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0015"
+    ],
+    "audio_file": "word_figures.mp3"
+  },
+  {
+    "word": "globalization",
+    "display": "globalization",
+    "syllables": 5,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0014"
+    ],
+    "audio_file": "word_globalization.mp3"
+  },
+  {
+    "word": "immigration",
+    "display": "immigration",
+    "syllables": 4,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0010"
+    ],
+    "audio_file": "word_immigration.mp3"
+  },
+  {
+    "word": "important",
+    "display": "important",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0015"
+    ],
+    "audio_file": "word_important.mp3"
+  },
+  {
+    "word": "increasingly",
+    "display": "increasingly",
+    "syllables": 4,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0002"
+    ],
+    "audio_file": "word_increasingly.mp3"
+  },
+  {
+    "word": "opportunities",
+    "display": "opportunities",
+    "syllables": 5,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0009"
+    ],
+    "audio_file": "word_opportunities.mp3"
+  },
+  {
+    "word": "placements",
+    "display": "placements",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0004"
+    ],
+    "audio_file": "word_placements.mp3"
+  },
+  {
+    "word": "political",
+    "display": "political",
+    "syllables": 4,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0014"
+    ],
+    "audio_file": "word_political.mp3"
+  },
+  {
+    "word": "professor",
+    "display": "professor",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0007"
+    ],
+    "audio_file": "word_professor.mp3"
+  },
+  {
+    "word": "quotation",
+    "display": "quotation",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0001"
+    ],
+    "audio_file": "word_quotation.mp3"
+  },
+  {
+    "word": "regarding",
+    "display": "regarding",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0014"
+    ],
+    "audio_file": "word_regarding.mp3"
+  },
+  {
+    "word": "renewable",
+    "display": "Renewable",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0003"
+    ],
+    "audio_file": "word_renewable.mp3"
+  },
+  {
+    "word": "similar",
+    "display": "similar",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0014"
+    ],
+    "audio_file": "word_similar.mp3"
+  },
+  {
+    "word": "specially",
+    "display": "specially",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0004"
+    ],
+    "audio_file": "word_specially.mp3"
+  },
+  {
+    "word": "submitting",
+    "display": "submitting",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0008"
+    ],
+    "audio_file": "word_submitting.mp3"
+  },
+  {
+    "word": "understand",
+    "display": "understand",
+    "syllables": 3,
+    "difficulty": "Difficult",
+    "source_questions": [
+      "RS_0010"
+    ],
+    "audio_file": "word_understand.mp3"
+  }
+]

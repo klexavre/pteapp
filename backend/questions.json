@@ -1,0 +1,92 @@
+[
+  {
+    "id": "RS_0001",
+    "text": "Please make sure you use the standard form of quotation.",
+    "complexity": "Easy",
+    "audio_file": "RS_0001.mp3"
+  },
+  {
+    "id": "RS_0002",
+    "text": "Living in the twenty first century is increasingly stressful.",
+    "complexity": "Medium",
+    "audio_file": "RS_0002.mp3"
+  },
+  {
+    "id": "RS_0003",
+    "text": "Renewable energy sources are now used to produce electricity.",
+    "complexity": "Medium",
+    "audio_file": "RS_0003.mp3"
+  },
+  {
+    "id": "RS_0004",
+    "text": "We have specially assigned staff to help you find appropriate work placements.",
+    "complexity": "Medium",
+    "audio_file": "RS_0004.mp3"
+  },
+  {
+    "id": "RS_0005",
+    "text": "If you are worried about your work, you should see a study counselor.",
+    "complexity": "Medium",
+    "audio_file": "RS_0005.mp3"
+  },
+  {
+    "id": "RS_0006",
+    "text": "Most of the student advisors are extremely helpful.",
+    "complexity": "Medium",
+    "audio_file": "RS_0006.mp3"
+  },
+  {
+    "id": "RS_0007",
+    "text": "The professor took a year off to work on her book.",
+    "complexity": "Easy",
+    "audio_file": "RS_0007.mp3"
+  },
+  {
+    "id": "RS_0008",
+    "text": "Before submitting the paper, your thesis must be approved by your tutor.",
+    "complexity": "Medium",
+    "audio_file": "RS_0008.mp3"
+  },
+  {
+    "id": "RS_0009",
+    "text": "There are lots of opportunities available for the students on campus.",
+    "complexity": "Medium",
+    "audio_file": "RS_0009.mp3"
+  },
+  {
+    "id": "RS_0010",
+    "text": "I didn’t understand the author’s point of view on immigration.",
+    "complexity": "Medium",
+    "audio_file": "RS_0010.mp3"
+  },
+  {
+    "id": "RS_0011",
+    "text": "I found a large rock, and I broke through the basement window.",
+    "complexity": "Easy",
+    "audio_file": "RS_0011.mp3"
+  },
+  {
+    "id": "RS_0012",
+    "text": "If you forgot your student number, you should contact Jenny Brice.",
+    "complexity": "Medium",
+    "audio_file": "RS_0012.mp3"
+  },
+  {
+    "id": "RS_0013",
+    "text": "In English, the month of the year is always capitalized.",
+    "complexity": "Medium",
+    "audio_file": "RS_0013.mp3"
+  },
+  {
+    "id": "RS_0014",
+    "text": "In Europe, the political pressure is similar regarding globalization.",
+    "complexity": "Medium",
+    "audio_file": "RS_0014.mp3"
+  },
+  {
+    "id": "RS_0015",
+    "text": "It is important to take gender into account when discussing the figures.",
+    "complexity": "Medium",
+    "audio_file": "RS_0015.mp3"
+  }
+]

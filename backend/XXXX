@@ -1,0 +1,38 @@
+[
+  {
+    "id": "RS_0001",
+    "text": "Conferences are always scheduled on the third Wednesday of the month.",
+    "complexity": "Medium",
+    "audio_file": "RS_0001.mp3"
+  },
+  {
+    "id": "RS_0002",
+    "text": "During the next few centuries, London became one of the most powerful and prosperous cities in Europe.",
+    "complexity": "Difficult",
+    "audio_file": "RS_0002.mp3"
+  },
+  {
+    "id": "RS_0003",
+    "text": "African elephant is the largest living land mammal in the world.",
+    "complexity": "Medium",
+    "audio_file": "RS_0003.mp3"
+  },
+  {
+    "id": "RS_0004",
+    "text": "Even with a permit, finding a parking spot on campus is almost impossible.",
+    "complexity": "Medium",
+    "audio_file": "RS_0004.mp3"
+  },
+  {
+    "id": "RS_0005",
+    "text": "I will be in my office every day from ten to twelve.",
+    "complexity": "Easy",
+    "audio_file": "RS_0005.mp3"
+  },
+  {
+    "id": "RS_0006",
+    "text": "I've got a tutorial in an hour and I haven't had any time to prepare for it.",
+    "complexity": "Medium",
+    "audio_file": "RS_0006.mp3"
+  }
+]

@@ -1,0 +1,41 @@
+﻿.\.venv\Scripts\python.exe : INFO:     Started server process [40572]
+At line:1 char:121
++ ... _OK='TRUE'; .\.venv\Scripts\python.exe -m uvicorn server:app --host 1 ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (INFO:     Started server process  
+   [40572]:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+Loading Faster-Whisper model 'small' (this can take a moment on first run)...
+Faster-Whisper model loaded.
+INFO:     127.0.0.1:63962 - "GET /api/questions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64790 - "GET /api/questions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58341 - "GET /api/questions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50447 - "GET /api/questions/RS_0184 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51440 - "GET /api/questions/RS_0184 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55778 - "GET /audio/RS_0184.wav HTTP/1.1" 200 OK
+Whisper transcribed in 3.29s: "That's it." (dropped 0 low-confidence segment(s))
+Loading Wav2Vec2 forced-alignment model (first run downloads ~360MB)...
+Forced-alignment model loaded.
+Forced alignment failed, falling back to Whisper-only scoring: 
+INFO:     127.0.0.1:50671 - "POST /api/score HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60454 - "GET /api/questions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52897 - "GET /api/questions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52897 - "GET /api/words?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60454 - "GET /api/words?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60454 - "GET /api/words/academic HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52897 - "GET /api/words/academic HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52212 - "GET /word_audio/word_academic.wav HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50983 - "POST /api/words/score HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51714 - "GET /api/words/accommodation HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58811 - "GET /api/words/accommodation HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57524 - "GET /word_audio/word_accommodation.wav HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61807 - "POST /api/words/score HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61970 - "GET /api/words/accommodations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50780 - "GET /api/words/accommodations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58827 - "GET /word_audio/word_accommodations.wav HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50780 - "GET /api/words?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61970 - "GET /api/words?limit=100 HTTP/1.1" 200 OK
